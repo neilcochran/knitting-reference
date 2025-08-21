@@ -63,7 +63,7 @@ Each document builds systematically on previous knowledge while serving as an in
 
 Found something unclear or have suggestions for improvement? 
 
-[**💬 Open an Issue**](../../issues) to share your feedback and help make this resource even better for the knitting community.
+**💬 Open an Issue** to share your feedback and help make this resource even better for the knitting community.
 
 ## 📄 License
 
@@ -75,4 +75,4 @@ See [LICENSE.md](LICENSE.md) for full details.
 
 **Happy Knitting! 🧶**
 
-*Master the craft through systematic learning and practice*
+*Stitch by stitch, skill by skill*
