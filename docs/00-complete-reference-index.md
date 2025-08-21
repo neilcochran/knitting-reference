@@ -117,6 +117,8 @@
   *See also: Material characteristics, Yarn selection*
 - **Finishing techniques** → Document 6, Complete document
   *See also: Professional methods, Quality standards*
+- **Fixed circular needles** → Document 4, Section 3.1
+  *See also: Circular tools, Cable length selection*
 - **Flat knitting** → Document 3, Complete document
   *See also: Row construction, Traditional methods*
 - **Float management** → Document 4, Section 4.2
@@ -290,6 +292,8 @@
   *See also: Three-dimensional construction, Garment fitting*
 - **Short rows** → Document 3, Section 4
   *See also: Shaping methods, Dimensional construction*
+- **Simple stripes** → Document 4, Section 4.1
+  *See also: Colorwork basics, Circular construction*
 - **Slip stitch patterns** → Document 5, Section 3.2
   *See also: Textured effects, Advanced techniques*
 - **Slip-stitch selvages** → Document 3, Section 5.1
@@ -300,8 +304,6 @@
   *See also: Left-leaning decreases, Purl-side shaping*
 - **Steam blocking** → Document 6, Section 2.2
   *See also: Gentle enhancement, Professional finishing*
-- **Steeks** → Document 4, Section 7.2
-  *See also: Cutting techniques, Advanced methods*
 - **Stitch mounting** → Document 3, Section 1.3
   *See also: Proper orientation, Technical accuracy*
 - **Stockinette stitch** → Document 3, Section 1.2
@@ -335,6 +337,8 @@
   *See also: Provisional methods, Circular foundations*
 - **Twisted stitches** → Document 5, Section 3.1
   *See also: Linear emphasis, Textural variation*
+- **Two-color patterns** → Document 4, Section 4.2
+  *See also: Colorwork basics, Stranded techniques*
 
 ## U
 
