@@ -30,19 +30,6 @@ Transform your knitting from basic stitches to professional-quality craftsmanshi
 
 **Looking for something specific?** Jump to the **Complete Reference Index** for alphabetical access to techniques and topics.
 
-### 🎯 Skill Progression
-
-```
-Foundation (Docs 1-3)     Development (Docs 4-5)     Mastery (Docs 6-7)
-                    →                          →
-   ┌─────────────┐         ┌─────────────┐           ┌─────────────┐
-   │ Essential   │         │ Advanced    │           │ Professional│
-   │ techniques  │         │ patterns &  │           │ finishing & │
-   │ & pattern   │         │ seamless    │           │ material    │
-   │ reading     │         │ construction│           │ mastery     │
-   └─────────────┘         └─────────────┘           └─────────────┘
-```
-
 ## 🏗️ Structure
 
 Each document builds systematically on previous knowledge while serving as an independent reference for specific techniques:
